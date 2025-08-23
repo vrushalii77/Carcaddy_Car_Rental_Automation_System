@@ -49,13 +49,13 @@ Built with **Spring Boot, MySQL, and Thymeleaf**, it ensures secure and efficien
 ## Admin Login Page
 <img width="1919" height="1079" alt="Screenshot 2025-08-23 221427" src="https://github.com/user-attachments/assets/e9d6ec8a-cf35-4c77-b827-0efc0871f308" />
 
-## AQdmin Dashboard (Home)
+## Admin Dashboard (Home)
 <img width="1917" height="1079" alt="Screenshot 2025-08-23 221437" src="https://github.com/user-attachments/assets/d91554d2-2d29-46e2-98bf-2f651a12f93c" />
 
 ## Admin Dashboard (Services)
 <img width="1918" height="1077" alt="Screenshot 2025-08-23 221448" src="https://github.com/user-attachments/assets/20e9b8d9-4b94-429e-81b9-ee4f8c0789a3" />
 
-## Car management Module
+## Car management 
 <img width="1919" height="1070" alt="Screenshot 2025-08-23 221519" src="https://github.com/user-attachments/assets/1f5f5b5b-7fdb-4831-a9ca-481b40c3ca7e" />
 
 ## Employee Management
